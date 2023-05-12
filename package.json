@@ -1,0 +1,19 @@
+{
+  "name": "lancepage_653final",
+  "version": "1.0.0",
+  "description": "Node.js REST API for US States data using both Express and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "LancePage_653Final"
+  },
+  "author": "Lance Page",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.5.0"
+  }
+}
